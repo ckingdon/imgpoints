@@ -1,4 +1,4 @@
-# imagepoints
+# imgpoints.py
 Command-line tool to quickly extract data at xy points from raster datasets.
 
 ```CONSOLE
