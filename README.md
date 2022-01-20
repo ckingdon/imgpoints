@@ -1,6 +1,7 @@
 > I wrote imgpoints circa 2010. Someday I'll redo it an apply proper programming principles. Until then, here it is, worts and all!
 
 # imagepoints
+# imgpoints.py
 Command-line tool to quickly extract data at xy points from raster datasets.
 
 ```CONSOLE
