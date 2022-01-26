@@ -1,4 +1,4 @@
-> I wrote imgpoints circa 2010. Someday I'll redo it an apply proper programming principles. Until then, here it is, worts and all!
+> I wrote this circa 2010. Someday I'll refactor it, apply proper programming principles, and make it more efficient. Until then, here it is, worts and all!
 
 # imgpoints.py
 Command-line tool to quickly extract data at xy points from raster datasets.
